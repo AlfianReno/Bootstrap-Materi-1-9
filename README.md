@@ -15,9 +15,11 @@ Konsep web sama seperti https://github.com/AlfianReno/toko-online
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="BOOTSTRAP5" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 <br />
 ---
 
 [html]: https://id.wikipedia.org/wiki/HTML
 [css]: https://id.wikipedia.org/wiki/Cascading_Style_Sheets
 [bootstrap]: https://id.wikipedia.org/wiki/Bootstrap_(kerangka_kerja)
+[javascript]: https://id.wikipedia.org/wiki/JavaScript
