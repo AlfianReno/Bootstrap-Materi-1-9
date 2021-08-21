@@ -10,7 +10,14 @@ Install dulu bootstrap di https://getbootstrap.com/docs/5.0/getting-started/intr
 <br />
 Konsep web sama seperti https://github.com/AlfianReno/toko-online
 <br />
+
 ##Language and Tools
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="BOOTSTRAP5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="BOOTSTRAP5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
+
+---
+
+[html]: https://id.wikipedia.org/wiki/HTML
+[css]: https://id.wikipedia.org/wiki/Cascading_Style_Sheets
+[bootstrap]: https://id.wikipedia.org/wiki/Bootstrap_(kerangka_kerja)
